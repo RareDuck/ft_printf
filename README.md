@@ -1,6 +1,6 @@
 *This project has been created as part of the 42 curriculum by ayague-a.*
 
-
+<img width="1700" height="360" alt="ft_printf" src="https://github.com/user-attachments/assets/22c1c16a-34ab-46cd-a874-f70ff8d8b828" />
 
 ## Description
 
